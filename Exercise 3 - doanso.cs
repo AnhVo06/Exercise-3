@@ -106,4 +106,5 @@
         Console.WriteLine("\nGAME OVER");
         Console.WriteLine($"\nTong so van thang: {wincount}, thua: {losecount}, so tien sau cung trong quy la: {quy}$");
     }
+
 }
